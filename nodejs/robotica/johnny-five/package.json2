@@ -1,0 +1,9 @@
+{
+"name": "Hola Mundo";
+"description": " Mi primer Proyecto";
+"version": "0.0.1";
+"dependencies": {
+	"johnny-five": "latest";
+}
+
+}

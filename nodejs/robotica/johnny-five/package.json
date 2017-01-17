@@ -1,0 +1,17 @@
+{
+  "name": "johnny-five-io",
+  "version": "0.0.0",
+  "description": "Browser interface for Johnny-Five",
+  "main": "script.js",
+  "dependencies": {
+    "johnny-five": "~0.5.14",
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Corey Daniels",
+  "license": "BSD"
+}
